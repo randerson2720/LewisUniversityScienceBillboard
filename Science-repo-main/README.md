@@ -1,14 +1,6 @@
 # Science and Chemistry Billboard
 This repository can be used to create a simple Azure hosted static website.
 
-
-### Credit:
-
-
-Fernando Alfaro: fernandogalfaro@lewisu.edu
-
-Pablo Enriquez: pablorenriquez@lewisu.edu
-
 ## MVP:
 https://github.com/Scrumdiddliumptious/ECAMS-Billboard-Static/blob/master/MVP.md
 
